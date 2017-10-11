@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="example.NewTest" duration-ms="4278" started-at="2017-10-04T21:16:00Z" finished-at="2017-10-04T21:16:05Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="4278" started-at="2017-10-04T21:16:00Z" finished-at="2017-10-04T21:16:05Z">
+      <class name="example.NewTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:example.NewTest@5315b42e]" name="beforeTest" is-config="true" duration-ms="2296" started-at="2017-10-04T17:16:00Z" finished-at="2017-10-04T17:16:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="openGoogle()[pri:0, instance:example.NewTest@5315b42e]" name="openGoogle" duration-ms="1321" started-at="2017-10-04T17:16:03Z" finished-at="2017-10-04T17:16:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogle -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:example.NewTest@5315b42e]" name="afterTest" is-config="true" duration-ms="647" started-at="2017-10-04T17:16:04Z" finished-at="2017-10-04T17:16:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- example.NewTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- example.NewTest -->
+</testng-results>
